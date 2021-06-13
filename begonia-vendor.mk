@@ -2197,14 +2197,4 @@ PRODUCT_PACKAGES += \
     ImsService \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
-    HotwordEnrollmentXGoogleCORTEXM4 \
-    mediatek-common \
-    mediatek-framework \
-    mediatek-ims-base \
-    mediatek-ims-common \
-    mediatek-ims-extension-plugin \
-    mediatek-ims-legacy \
-    mediatek-ims-wwop-common \
-    mediatek-telecom-common \
-    mediatek-telephony-base \
-    mediatek-telephony-common
+    HotwordEnrollmentXGoogleCORTEXM4
